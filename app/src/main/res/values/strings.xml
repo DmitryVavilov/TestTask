@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string-array name="specialty">
+        <item>Менеджер</item>
+        <item>Разработчик</item>
+    </string-array>
+    <string-array name="workers">
+        <item>Иван Иванов</item>
+        <item>Петр Петров</item>
+        <item>Вася Пупкин</item>
+        <item>Екатерина Пертрова</item>
+        <item>Николай Сидоров</item>
+        <item>Виктор Федотов</item>
+        <item>Артур Варламов</item>
+        <item>Артур Варламов</item>
+        <item>Руслан Русланов</item>
+        <item>Владимир Миронов</item>
+    </string-array>
+</resources>
